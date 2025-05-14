@@ -2,7 +2,7 @@
 
 Skin cancer is the most common human malignancy and is primarily diagnosed visually, beginning with an initial clinical screening, followed by dermoscopic analysis, and potentially a biopsy and histopathological examination. Early detection plays a crucial role in treatment and outcomes. Automated classification of skin lesions from images is a challenging task due to the fine-grained variability in the appearance of skin lesions.
 
-This project aims to develop an automated model to classify skin lesions into two categories (benign or malignant) using deep learning techniques.
+This project aims to develop an automated model to classify skin lesions into 2 categories (benign or malignant) using deep learning techniques.
 
 ## Dataset
 
